@@ -1,6 +1,6 @@
 # OOP-Finals
 
-FINALS project in Object Oriented Programing (OOP123) Instructor: Sir Jaymart Maala
+FINALS project in Object Oriented Programing (OOP123) <br> Instructor: Sir Jaymart Maala
 
 Project: E-Commerce 
 Title: WILLMELIA 
@@ -86,66 +86,9 @@ for responsivenes: : Mobile FIRST is used (a simulator for different view)
 
 ===================================================================================================================================================================
 
-Test Flow Chart
-
-
-[Start] 
-   |
-[Login Page] 
-   | (enter username & password)
-   v
-[Homepage / Product List]
-   | 
-   |--- Browse products
-   |--- Search products
-   |
-   +--> [Select Product] --> [View Product Details]
-                          |            |
-                          |            v
-                          |      [Add to Cart]
-                          |            |
-                          +------------+
-   |
-   v
-[View Cart] 
-   | (edit quantity, remove items)
-   v
-[Checkout]
-   | (choose shipping method)
-   | (choose payment method: e-wallet or others)
-   |
-   v
-[Confirm Order]
-   |
-   v
-[Receipt Popup] 
-   | (shows order summary)
-   | (option to print)
-   v
-[Order Completed]
-
-   |   
-   |
-[Profile Settings]
-   | (edit name, email, phone, address)
-   | (upload/change profile picture)
-   v
-[Save Profile Changes]
-   |
-   v
-[Return to Homepage]
-
-   |
-[Logout]
-   |
-[End]
-
-
-===================================================================================================================================================================
-
-Members and its participation / role
-Dimagiba, William Kirby M. - Role: Programmer | Designer | 
-Perez, Sofia Ariene Fe M. - Role: Designer | Analyst |
-Armel, Alejo E - Role: Designer |
+Members and its participation / role <br>
+Dimagiba, William Kirby M. - Role: Programmer | Designer | <br> 
+Perez, Sofia Ariene Fe M. - Role: Designer | Analyst | <br>
+Armel, Alejo E - Role: Designer | <br>
 
 ================================================================================================================================================================
