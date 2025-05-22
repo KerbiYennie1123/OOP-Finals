@@ -78,7 +78,7 @@ Whats used in this project?
 HTML - for structure (pinaka buto ng project namin hehe)
 CSS - for design and layout (balat nmn)
 JavaScript - for functions (nervous system or nag papagalaw hehe)
-these 3 only are used in this projects... no any backend used
+these 3  are the only used in this projects... no backend. <br> 
 for responsivenes: : Mobile FIRST is used (a simulator for different view)
                    Link: https://www.webmobilefirst.com/en/
                    this is used to test the responsiveness for mobile used
