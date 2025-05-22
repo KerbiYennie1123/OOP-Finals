@@ -42,8 +42,8 @@ very grateful to the score given... thank you
 
 ====================================================================================================================================================================
 
-About This Project
-Willmelia is a simple online shopping website. Users can log in, browse products, add items to a cart, and buy them. After buying, they get a receipt popup that they can print.
+About This Project: <br>
+WILMELIA is a simple online shopping website. Users can log in, browse products, add items to a cart, and buy them. After buying, they get a receipt popup that they can print.
 
 Features
 • User login and logout with confirmation.
