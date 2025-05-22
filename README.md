@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55fb2d3c-cb48-4ddf-be90-d465f1aff216)![image](https://github.com/user-attachments/assets/0a8895bd-e095-4f60-ae8b-3411ce93f203)# OOP-Finals
+# OOP-Finals
 
 FINALS project in Object Oriented Programing (OOP123) Instructor: Sir Jaymart Maala
 
